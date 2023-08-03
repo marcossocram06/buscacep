@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html larg="en">
+<head>
+<meta charset="UTF-8"/>
+<mata name="viewport" content="width=device-width,
+initial-scale=1.0"  />
+<title>JavaScript</title>
+<style> 
+   body {
+       background: #364253;
+       
+   }
+    
+
+</style>
+
+</head>
+<body>
+    <div id="app">
+
+
+        <button>carregar</button>
+         
+        
+      <!---- <a href="http://google.com.br">Visitar  Google</a>-->
+    
+    </div>
+
+
+      
+
+    
+    
+<!-- caminho do arquivo app.js -->
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+<script src="./app.js"></script>
+
+
+
+
+
+</body>
+</html>
